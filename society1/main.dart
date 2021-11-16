@@ -414,7 +414,7 @@ void main() {
           height: 100,
           decoration: BoxDecoration(
             shape: BoxShape.circle,
-            image: DecorationImage(image: AssetImage('images/chatbot_2.png'), fit: BoxFit.fill),
+            image: DecorationImage(image: AssetImage('images/Chatbot2.png'), fit: BoxFit.fill),
           ),
         ),
       ),
